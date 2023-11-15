@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony or @T-Cullen 
-- I’m interested in learning more
+- I’m interested in future collaboration
 - I’m currently learning the SDR code camp is out of date
 
 
